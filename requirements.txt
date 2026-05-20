@@ -1,0 +1,7 @@
+confluent-kafka
+streamlit
+pandas
+plotly
+websockets
+streamlit-autorefresh
+pyspark==3.5.0
